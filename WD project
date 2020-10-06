@@ -51,3 +51,128 @@ Application Form to fill up your information:
 
   </body>
 </html>
+
+
+Normal website :
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title> MY INDIA</title>
+    <style media="screen">
+
+
+      body {
+        background-color: #17a2b8;
+
+      }
+
+      .container {
+        display: flex;
+        padding: 20;
+        font-size:16px;
+      }
+
+
+      .first {
+        color: #6c757d;
+        background-color: #66BFBF;
+        text-align: center;
+      }
+
+      .tags1 {
+        text-align: right;
+         padding:  10px  ;
+      }
+
+      a:hover{
+        background-color:#E97171 ;
+      }
+
+      .box1 {
+
+        background-color: orange;
+      }
+
+      .box2 {
+
+        background-color: white;
+      }
+
+
+      .box3 {
+        background-color: green;
+      }
+
+      .footer {
+        text-align: center ;
+        padding: 10px;
+        bottom: 0;
+        background-color: red;
+        color: white;
+        width:;
+
+      }
+
+
+  </style>
+  </head>
+  <body>
+    <div class="first">
+      <h1>INDIA</h1>
+      <nav class="tags1">
+        <a href="#">HOME</a>
+        <a href="#">ABOUT</a>
+        <a href="#">OUR WORLD</a>
+      </nav>
+    </div>
+
+  <div class="container">
+      <div class="box1">
+        <p>
+          1. Bhagat Singh attended Dayanand Anglo Vedic High School, which was operated by Arya Samaj (a reform sect of modern Hinduism), and then National College, both located in Lahore. He began to protest British rule in India while still a youth and soon fought for national independence. He also worked as a writer and editor in Amritsar for Punjabi- and Urdu-language newspapers espousing Marxist theories. He is credited with popularizing the catchphrase “Inquilab zindabad” (“Long live the revolution”).
+
+In 1928 Bhagat Singh plotted with others to kill the police chief responsible for the death of Indian writer and politician Lala Lajpat Rai, one of the founders of National College, during a silent march opposing the Simon Commission. Instead, in a case of mistaken identity, junior officer J.P. Saunders was killed, and Bhagat Singh had to flee Lahore to escape the death penalty. In 1929 he and an associate lobbed a bomb at the Central Legislative Assembly in Delhi to protest the implementation of the Defence of India Act and then surrendered. He was hanged at the age of 23 for the murder of Saunders.  </p>
+
+    </div>
+
+    <div class="box2">
+
+          <p> 2. Shivaram Rajguru (1908-1931) was a great Indian freedom fighter who played a major role in the India’s struggle for Independence. He is amongst those great Indian revolutionaries who sacrificed their lives for the freedom of country. His full name was Hari Shivaram Rajguru and was born into a Deshastha Brahmin family. Since his childhood days, he had witnessed the brutal atrocities that the Imperial British Raj inflicted on India and her people. This instilled within him a strong urge to join hands with the revolutionaries in a bid for India’s freedom struggle.
+
+In the days of the Indian Freedom Movement, the Hindustan Socialist Republican Army (HSRA) was an active force working against the British. Their main motive was to strike fear into the heart of the British regime. They simultaneously spread awareness amongst the people. They made them take notice of the growing domestic uprising when they dealt crucial blows with attacks like in the Lahore Conspiracy Case (December 18, 1928) and the bombing of the Central Assembly Hall in New Delhi (April 8, 1929).</p>
+
+    </div>
+
+      <div class="box3">
+
+        <p> 3. Atal Bihari Vajpayee, Bihari also spelled Behari, (born December 25, 1924, Gwalior, Madhya Pradesh, India—died August 16, 2018, New Delhi, Delhi), leader of the pro-Hindu Bharatiya Janata Party (BJP) and twice prime minister of India (1996; 1998–2004).Vajpayee was first elected to parliament in 1957 as a member of the Bharatiya Jana Sangh (BJS), a forerunner of the BJP. In 1977 the BJS joined three other parties to form the Janata Party, which led a government that lasted until July 1979. As foreign minister in the Janata government, Vajpayee earned a reputation for improving relations with Pakistan and China. In 1980, following a split in the Janata Party, Vajpayee helped the BJS to reorganize itself as the BJP. In 1992 he was one of the few Hindu leaders to speak out against the destruction of the historic mosque at Ayodhya by anti-Muslim extremists.
+
+Vajpayee was sworn in as prime minister in May 1996 but was in office only 13 days, after failing to attract support from other parties. In early 1998 he again became prime minister, in elections in which the BJP won a record number of seats, but he was forced to make a shaky alliance with regional parties. In 1999 the BJP increased its seats in parliament and consolidated its hold on government.</p>
+
+      </div>
+
+      <div class="box4">
+        <img src="https://wallpapercave.com/wp/wp2566071.jpg" alt="INDIA" style = "width:100px; height:200px;">
+
+     </div>
+
+    </div>
+
+    <div class="footer">
+      <footer>
+        <p>
+           ABOUT INDIA
+          </p>
+          <p>
+            AUTHOR - ADITYA SHARMA
+          </p>
+      </footer>
+
+    </div>
+
+  </body>
+</html>
+
+
