@@ -1,0 +1,53 @@
+Application Form:
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>APPLICATION FORM</title>
+    <link rel="stylesheet" href="/css/styles2.css">
+    <style media="screen">
+    .box1 {
+      background-color: red;
+    }
+    </style>
+
+  </head>
+  <body class="box1">
+    <hr size="8" noshade>
+    <center>
+    <h2>APPLICATION FORM</h2>
+
+   <form  action="mailto:adityasharma2227@gmail.com" method="post" enctype="text/plain" >
+     <label> First Name: </label>
+     <input type="text" name=" First name" value=""><br>
+     <label>Last Name:</label>
+      <input type="text" name="Last Name" value=""><br>
+      <label> Date Of Birth </label>
+      <input type="date" name="date of birth" ><br>
+       <label> Contact Number </label>
+      <input type=" Contact Number" name=" number " value=""><br>
+      <label for="Email">Email:</label>
+      <input type="text" name="" value=""><br>
+      <input type="radio" name="gender" value="male">MALE
+      <input type="radio" name="gender" value="female">FEMALE <br>
+      <label>Hobbies</label><br>
+      <input type="checkbox" name="" value="">Football <br>
+      <input type="checkbox" name="" value="">singing <br>
+      <input type="checkbox" name="" value="">others <br>
+      <input type="text" name="" value="">
+      <p><strong>To give some reviews</strong></p>
+      <textarea name="name" rows="8" cols="80"></textarea><br>
+      <label for="Resume">Resume:</label>
+      <input type="file" id="resume" multiple><br>
+      <input type="checkbox" name="" value="">I AGREE <br>
+      <input type="submit" name=""><br>
+      <input type="reset" name=""><br>
+      </center>
+      <hr size="8" noshade>
+
+
+
+  </body>
+</html>
